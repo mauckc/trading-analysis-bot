@@ -1,2 +1,2 @@
-setop: pip install -r requirements.txt
+setup: pip install -r requirements.txt
 bot: python bot.py
